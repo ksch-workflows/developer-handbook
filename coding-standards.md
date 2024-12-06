@@ -14,3 +14,5 @@
 
 - https://google.github.io/styleguide/javaguide.html
 - [Righting Software, Juval Lowy, Chapter 9](https://learning.oreilly.com/library/view/righting-software/9780136524007/ch09.xhtml)
+- https://github.com/spring-projects/spring-framework/wiki/Code-Style#java-source-file-organization
+

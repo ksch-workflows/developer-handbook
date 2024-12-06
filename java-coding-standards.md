@@ -23,3 +23,5 @@
 - [Righting Software, Juval Lowy, Chapter 9](https://learning.oreilly.com/library/view/righting-software/9780136524007/ch09.xhtml)
 - https://github.com/spring-projects/spring-framework/wiki/Code-Style#java-source-file-organization
 - https://rules.sonarsource.com/java/
+- https://blog.jetbrains.com/idea/2024/02/java-best-practices/
+- https://dzone.com/articles/java-best-practices-quick-reference

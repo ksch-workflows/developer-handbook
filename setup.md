@@ -1,4 +1,4 @@
-# Setup of Developement Tools
+# Setup of Development Tools
 
 ## References
 
